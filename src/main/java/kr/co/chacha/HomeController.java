@@ -13,4 +13,9 @@ public class HomeController {
 	public String Home() {
 		return "index";
 	}
+	
+	@RequestMapping("template")
+	public String tem() {
+		return "template";
+	}
 }

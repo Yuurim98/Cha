@@ -59,8 +59,7 @@
                     <small>+0507-1401-8061</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center mx-n2">
-                    <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="">ID</a>
-                    
+                    <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="">LOGIN</a>
                 </div>
             </div>
         </div>
@@ -70,7 +69,6 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
-        
         <a href="index.html" class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
             <h2 class="m-0"> <img src="img/아이콘22.jpg" alt="Image">그냥 데려가개</h2>
         </a>
@@ -79,7 +77,13 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="template" class="nav-item nav-link active">보호소</a>
+               	<div class="nav-item dropdown">
+                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">보호소</a>
+                    <div class="dropdown-menu bg-light m-0">
+                        <a href="#" class="dropdown-item">보호소 소개</a>
+                        <a href="#" class="dropdown-item">입양 신청</a>
+                    </div>
+                </div>
                 <a href="about.html" class="nav-item nav-link">봉사활동</a>
                 <a href="courses.html" class="nav-item nav-link">교육강의</a>
                 <div class="nav-item dropdown">

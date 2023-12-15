@@ -61,7 +61,6 @@
                 <div class="h-100 d-inline-flex align-items-center mx-n2">
                     <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" 
                     href="/member/loginForm">LOGIN</a>
-                    
                 </div>
             </div>
         </div>
@@ -71,7 +70,6 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
-        
         <a href="index.html" class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
             <h2 class="m-0"><i class=></i>그냥 데려가개</h2>
         </a>

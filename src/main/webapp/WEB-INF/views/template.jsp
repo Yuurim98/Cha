@@ -124,6 +124,7 @@
             </div>
         </div>
     </div>
+<<<<<<< HEAD
     <!-- Copyright End -->
 
 
@@ -132,6 +133,16 @@
 
 
     <!-- JavaScript Libraries -->
+=======
+    <!— Copyright End —>
+
+
+    <!— Back to Top —>
+    <a href="#" class="btn btn-lg btn-primary btn-lg-square back-to-top"><i class="bi bi-arrow-up"></i></a>
+
+
+    <!— JavaScript Libraries —>
+>>>>>>> 4125f8714c60e9afa74c6943bfe0fd1e41663738
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
     <script src="lib/wow/wow.min.js"></script>
@@ -139,7 +150,11 @@
     <script src="lib/waypoints/waypoints.min.js"></script>
     <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 
+<<<<<<< HEAD
     <!-- Template Javascript -->
+=======
+    <!— Template Javascript —>
+>>>>>>> 4125f8714c60e9afa74c6943bfe0fd1e41663738
     <script src="js/main.js"></script>
 </body>
 </html>

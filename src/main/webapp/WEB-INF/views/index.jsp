@@ -59,7 +59,13 @@
                     <small>+0507-1401-8061</small>
                 </div>
                 <div class="h-100 d-inline-flex align-items-center mx-n2">
+<<<<<<< .merge_file_LMZ1yF
                     <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" href="">LOGIN</a>
+=======
+                    <a class="btn btn-square btn-link rounded-0 border-0 border-end border-secondary" 
+                    href="/member/loginForm">LOGIN</a>
+                    
+>>>>>>> .merge_file_6vSEZI
                 </div>
             </div>
         </div>
@@ -342,5 +348,15 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+    <script src="js/login.js"></script>
+    
+    <scss>
+    <script src="js/login.js"></script>
+    
+    
+    
+    
+    
+    
 </body>
 </html>

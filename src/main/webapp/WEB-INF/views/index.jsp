@@ -69,23 +69,14 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
-        
-<<<<<<< HEAD
-        <a href="" class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
-            <h2 class="m-0"><i class="fa fa-car text-primary me-2"></i>그냥 데려가개</h2>
-=======
         <a href="index.html" class="navbar-brand d-flex align-items-center border-end px-4 px-lg-5">
             <h2 class="m-0"><i class=></i>그냥 데려가개</h2>
->>>>>>> f704d9087022036e3e91b69002570234ff92ed62
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-<<<<<<< HEAD
-                <a href="template" class="nav-item nav-link">보호소</a>
-=======
                	<div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">보호소</a>
                     <div class="dropdown-menu bg-light m-0">
@@ -93,7 +84,6 @@
                         <a href="#" class="dropdown-item">입양 신청</a>
                     </div>
                 </div>
->>>>>>> f704d9087022036e3e91b69002570234ff92ed62
                 <a href="about.html" class="nav-item nav-link">봉사활동</a>
                 <a href="courses.html" class="nav-item nav-link">교육강의</a>
                 <div class="nav-item dropdown">
